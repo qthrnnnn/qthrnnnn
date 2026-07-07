@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Qothrun Nada Salsabila 👋<br><br>I'm a Informatics student at UPN "Veteran" Jawa Timur with a strong curiosity for Web Development and DevOps. I enjoy learning by building projects, exploring new technologies, and improving my problem-solving skills.<br><br>🚀 Currently Exploring<br><br>- Frontend Development<br>- Backend Development<br>- DevOps Fundamentals<br>- UI/UX Design<br><br>🛠️ Tech Stack<br><br>- HTML, CSS, JavaScript<br>- PHP<br>- Python<br>- MySQL<br>- Git & GitHub<br><br>🌱 Currently Learning<br><br>Currently focused on strengthening my skills in web development, DevOps, and software engineering.<br><br>"Stay curious, keep building, and never stop learning."
+Hi there, I'm Qothrun Nada Salsabila 👋<br><br>I'm a Informatics student at UPN "Veteran" Jawa Timur with a strong curiosity for Web Development and DevOps. I enjoy learning by building projects, exploring new technologies, and improving my problem-solving skills.<br><br>🚀 Currently Exploring<br><br>- Frontend Development<br>- Backend Development<br>- DevOps Fundamentals<br>- UI/UX Design<br><br>🛠️ Tech Stack<br><br>- HTML, CSS, JavaScript<br>- PHP<br>- Python<br>- MySQL<br>- Git & GitHub<br><br>🌱 Currently Learning<br><br>Currently focused on strengthening my skills in web development, DevOps, and software engineering.<br><br>"Keep comitting. Keep growing"
 
 
 ## 🌐 Socials:
@@ -10,5 +10,5 @@ Hi there, I'm Qothrun Nada Salsabila 👋<br><br>I'm a Informatics student at UP
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=qthrnnnn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=qthrnnnn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=qthrnnnn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
