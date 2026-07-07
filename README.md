@@ -12,7 +12,3 @@ Hi there, I'm Qothrun Nada Salsabila 👋<br><br>I'm a Informatics student at UP
 ![](https://streak-stats.demolab.com/?user=qthrnnnn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=qthrnnnn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=qthrnnnn&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/618c4c7d-41eb-44f5-b445-192e59b60ac0" />
